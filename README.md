@@ -9,6 +9,7 @@ composer require nearata/lang-italian
 ## Supported Extensions:
 
 | **Flagrow extensions** | |
+| --- | --- |
 | | ads |
 | | bazaar |
 | | byobu |
