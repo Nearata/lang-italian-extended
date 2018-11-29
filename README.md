@@ -4,23 +4,23 @@
 
 | **Flagrow extensions** | |
 | --- | --- |
-| | ads |
-| | bazaar |
-| | byobu |
-| | masquerade |
-| | passport |
-| | split |
-| | upload |
+| ads |
+| bazaar |
+| byobu |
+| masquerade |
+| passport |
+| split |
+| upload |
 | **Reflar extensions** | |
-| | koseki |
-| | twofactor |
+| koseki |
+| twofactor |
 | **Other extensions** | |
-| | antoinefr-money |
-| | avatar4eg-transliterator |
-| | sijad-auth-steam |
-| | sijad-links |
-| | sijad-pages |
-| | sijad-recaptcha |
-| | wiseclock-post-copyright |
-| | wiseclock-reply2see |
-| | xengine-signature |
+| antoinefr-money |
+| avatar4eg-transliterator |
+| sijad-auth-steam |
+| sijad-links |
+| sijad-pages |
+| sijad-recaptcha |
+| wiseclock-post-copyright |
+| wiseclock-reply2see |
+| xengine-signature |
