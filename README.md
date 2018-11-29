@@ -4,8 +4,8 @@
 
 | **Flagrow extensions** | |
 | --- | --- |
-| ads |
-| bazaar |
+| ads | 0.2.0-beta.1 |
+| bazaar | 0.3.7 |
 | byobu |
 | masquerade |
 | passport |
