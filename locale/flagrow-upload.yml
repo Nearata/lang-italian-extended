@@ -54,7 +54,7 @@ flagrow-upload:
                 key: Key
                 secret: Secret
                 bucket: Bucket
-                region: Region
+                region: Regione
             ovh-svfs:
                 title: Impostazioni archiviazione OVH SVFS
                 container: Container
