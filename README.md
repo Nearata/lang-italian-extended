@@ -1,11 +1,5 @@
 # Italian Extra Language Pack for Flarum
 
-## Installation / Updating
-
-```shell
-composer require nearata/lang-italian
-```
-
 ## Supported Extensions:
 
 | **Flagrow extensions** | |
