@@ -1,5 +1,13 @@
 # Italian Extra Language Pack for Flarum
 
+## Installation
+
+1) You **MUST** have installed the [Italian Language Pack](https://discuss.flarum.org/d/5160-italian-language-pack).
+2) Click on the green button in the Home page of this repo and click "Download ZIP"
+3) Open the ZIP, go in the folder "locale", drag & drop the translation you want in **flarum-root/vendor/nearata/lang-italian/locale** folder.
+4) ???
+5) Profit.
+
 ## Supported Extensions:
 
 | **Flagrow extensions** | **Version** |
