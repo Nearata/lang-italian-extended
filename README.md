@@ -4,9 +4,9 @@
 
 # Italian Language Pack Extended
 
-</div>
+<sup>**NOTE:** This extension does not include Flarum core translations.</sup>
 
-**Note:** This extension does not include Flarum core translations.
+</div>
 
 ## Installation
 
