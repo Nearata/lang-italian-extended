@@ -1,7 +1,6 @@
 # Supported extensions
 
 - Antoinefr Money
-- Avatar4eg Transliterator
 - Flagrow Ads
 - Flagrow Analytics
 - Flagrow Bazaar
@@ -42,6 +41,7 @@
 - FoF Split
 - FoF StopForumSpam
 - FoF Terms
+- FoF Transliterator
 - FoF User Bio
 - Reflar Koseki
 - Reflar Two Factor
