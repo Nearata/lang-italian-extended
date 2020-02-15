@@ -43,9 +43,9 @@
 - FoF Terms
 - FoF Transliterator
 - FoF User Bio
+- Nomiscz Auth Steam
 - Reflar Koseki
 - Reflar Two Factor
-- Sijad Auth Steam
 - Sijad Links
 - Sijad Pages
 - Sijad reCAPTCHA
