@@ -19,7 +19,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Italian",
+            "title": "Italian Extended",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",
