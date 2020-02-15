@@ -11,19 +11,20 @@
 ## Installation
 
 ```bash
--
+composer require nearata/lang-italian-extended
 ```
 
 ## Updating
 
 ```bash
--
+composer update nearata/lang-italian-extended
+php flarum cache:clear
 ```
 
 ## Remove
 
 ```bash
--
+composer remove nearata/lang-italian-extended
 ```
 
 ## Supported Extensions
