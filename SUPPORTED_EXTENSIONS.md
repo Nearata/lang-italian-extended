@@ -46,9 +46,5 @@
 - Nomiscz Auth Steam
 - Reflar Koseki
 - Reflar Two Factor
-- Sijad Links
-- Sijad Pages
-- Sijad reCAPTCHA
-- Wiseclock Post Copyright
 - Wiseclock Reply2see
 - Xengine Signature
