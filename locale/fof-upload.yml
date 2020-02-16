@@ -1,4 +1,5 @@
-flagrow-upload:
+# https://github.com/FriendsOfFlarum/upload
+fof-upload:
     forum:
         buttons:
             attach: Allega
