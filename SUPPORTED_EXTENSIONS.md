@@ -1,13 +1,9 @@
 # Supported extensions
 
 - Antoinefr Money
+- Extiverse Bazaar
 - Flagrow Ads
 - Flagrow Analytics
-- Flagrow Bazaar
-- Flagrow Byobu
-- Flagrow Masquerade
-- Flagrow Passport
-- Flagrow Split
 - Flagrow Telegram
 - Flagrow Upload
 - FoF Auth Discord
@@ -44,6 +40,5 @@
 - FoF Transliterator
 - FoF User Bio
 - Nomiscz Auth Steam
-- Reflar Koseki
 - Reflar Two Factor
 - Wiseclock Reply2see
