@@ -1,3 +1,4 @@
+# https://github.com/FriendsOfFlarum/auth-gitlab/
 fof-auth-gitlab:
   admin:
     gitlab_settings:

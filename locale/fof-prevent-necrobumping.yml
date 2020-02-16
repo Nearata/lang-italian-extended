@@ -1,3 +1,4 @@
+# https://github.com/FriendsOfFlarum/prevent-necrobumping/
 fof-prevent-necrobumping:
   forum:
     composer:

@@ -1,3 +1,4 @@
+# https://github.com/FriendsOfFlarum/auth-discord/
 fof-auth-discord:
   admin:
     discord_settings:
