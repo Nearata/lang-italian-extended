@@ -15,4 +15,5 @@
 *.yml  text eol=lf
 
 # Exclude the following files when exporting an archive.
+.gitattributes export-ignore
 README.md export-ignore
