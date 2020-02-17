@@ -8,6 +8,8 @@
 
 </div>
 
+> A Flarum extension that translate third party extensions
+
 ## Installation
 
 ```bash
@@ -30,6 +32,10 @@ composer remove nearata/lang-italian-extended
 ## Supported Extensions
 
 Open the file `SUPPORTED_EXTENSIONS.md` to see a list of supported extensions.
+
+## Changelog
+
+Open the file `CHANGELOG.md` to see all changes
 
 ## License
 

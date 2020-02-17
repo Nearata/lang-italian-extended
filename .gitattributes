@@ -16,4 +16,5 @@
 
 # Exclude the following files when exporting an archive.
 .gitattributes export-ignore
+CHANGELOG.md export-ignore
 README.md export-ignore
