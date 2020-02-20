@@ -29,4 +29,4 @@ fof-best-answer:
       awarded_email: Il tuo messaggio è stato impostato come migliore risposta da parte dell'utente # Your post was set as the best answer by user
       select_email_title: Sei riuscito a risolvere il tuo problema? # Did you manage to sort your problem?
       preferences:
-        awarde_best_answer: Quando qualcuno imposta il mio messaggio come migliore risposta # When someone sets my post as a best answer
+        awarded_best_answer: Quando qualcuno imposta il mio messaggio come migliore risposta # When someone sets my post as a best answer
