@@ -28,7 +28,7 @@ reflar-twofactor:
       helpPhone: 'Seleziona il tuo gestore, inserisci il tuo numero, poi clicca "Salva numero"' # 'Select your country, enter your phone number, then click "Save Phone"'
       helpPhone2: 'Inserisci il codice che hai ricevuto via SMS e clicca "Invia"' # 'You should now receive a text with a code, enter it below and click "Submit"'
       helpAuthy: 'Seleziona il tuo paese, inserisci il tuo numero di cellulare e clicca "Configura"' # 'Select your country, enter your phone number, then click "Setup"'
-      helpAuthy2: 'Adesso dovresti ricevere instruzioni per configurare Authy oppure una notifica direttamente dall'app. Una volta configurato, inserisci il codice e clicca "Invia"'
+      helpAuthy2: Adesso dovresti ricevere instruzioni per configurare Authy oppure una notifica direttamente dall'app. Una volta configurato, inserisci il codice e clicca "Invia"
       # 'You should now either receive a text with instructions to setup Authy, or a notification from your Authy app. Once setup, enter your code below and click "submit"'
       submitPhone: Salva numero # Save Phone
       otSetup: Configura # Setup
