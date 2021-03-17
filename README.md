@@ -4,6 +4,8 @@
 
 # Italian Language Pack Extended
 
+ABANDONED
+
 <sup>**NOTE:** This extension does not include Flarum core translations.</sup>
 
 </div>
